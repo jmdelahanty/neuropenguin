@@ -1,3 +1,3 @@
-# neuropenguin.github.io
+# scienceishard.github.io
 
 Static website development using Jekyll!
