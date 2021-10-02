@@ -1,1 +1,0 @@
-# scienceishard.github.io
